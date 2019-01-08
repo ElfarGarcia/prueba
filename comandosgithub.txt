@@ -1,5 +1,6 @@
 clonar proyecto: git clone y luego pegar direcion de repositorio
-subir archivo a la parte local: git status
-subir el archivo a git: git add y nombre archivo 
-para revisar la diferencia de contenido entre el archivo existe y el que va a subir
+mostrar archivos nuevos no subidos: git status
+subir el archivo a la parte local: git add y nombre archivo 
+para revisar la diferencia de contenido entre el archivo existe en la parte local y el que va a subir:
 git diff
+subir el archivo a git:git commit o git commit -m"mensaje que quiera para identificar los cambios realizados"
